@@ -1,4 +1,4 @@
-module github.com/imfing/hextra-starter-template
+module github.com/nauti-io/nauti-io.github.io
 
 go 1.21
 
