@@ -11,8 +11,8 @@ layout: hextra-home
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  多集群网络连接<br class="sm:hx-block hx-hidden" />
-以及无缝服务发现
+  Nauti: 一键部署多集群网络连接<br class="sm:hx-block hx-hidden" />
+符合MCS标准的原生服务发现
 {{< /hextra/hero-headline >}}
 </div>
 
