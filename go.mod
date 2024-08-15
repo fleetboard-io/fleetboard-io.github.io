@@ -1,4 +1,4 @@
-module github.com/nauti-io/nauti-io.github.io
+module github.com/fleetboard-io/fleetboard-io.github.io
 
 go 1.21
 

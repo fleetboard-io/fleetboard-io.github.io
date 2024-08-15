@@ -1,6 +1,6 @@
 # Configuration
-baseURL: "https://nauti-io.github.io/"
-title: "Nauti"
+baseURL: "https://fleetboard-io.github.io/"
+title: "FleetBoard"
 
 enableRobotsTXT: true
 enableGitInfo: true
@@ -21,12 +21,12 @@ languages:
   en:
     languageName: English
     weight: 1
-    title: Nauti
+    title: FleetBoard
   zh-cn:
     languageName: 简体中文
     languageCode: zh-CN
     weight: 2
-    title: Nauti
+    title: FleetBoard
 
 module:
   #  hugoVersion:
@@ -57,7 +57,7 @@ menu:
         type: search
     - name: GitHub
       weight: 6
-      url: "https://github.com/nauti-io"
+      url: "https://github.com/FleetBoard-io"
       params:
         icon: github
 
@@ -68,21 +68,21 @@ menu:
         type: separator
       weight: 1
     - identifier: hugoDocs
-      name: "Nauti Github ↗"
-      url: "https://github.com/nauti-io"
+      name: "FleetBoard Github ↗"
+      url: "https://github.com/FleetBoard-io"
       weight: 3
 
 params:
   description:
-    Nauti establishes an independent and unified parallel network,
+    FleetBoard establishes an independent and unified parallel network,
     facilitating cross-cluster service discovery even in cases of IP overlap.
 
   navbar:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/nauti-log.png
-      dark: images/nauti-log.png
+      path: images/fleetboard-log.png
+      dark: images/fleetboard-log.png
       # width: 40
       # height: 20
       # link: /
