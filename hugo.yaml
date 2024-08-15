@@ -81,8 +81,8 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/fleetboard-log.png
-      dark: images/fleetboard-log.png
+      path: images/fleetboard-logo.png
+      dark: images/fleetboard-logo.png
       # width: 40
       # height: 20
       # link: /
