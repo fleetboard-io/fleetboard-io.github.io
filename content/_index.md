@@ -18,8 +18,7 @@ and Seamless Cross Cluster service discovery.
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-FleetBoard establishes an independent and unified parallel network,&nbsp <br class="sm:hx-block hx-hidden" />
-facilitating cross-cluster service discovery even in cases of IP overlap.
+FleetBoard establishes an independent and unified parallel network, facilitating cross-cluster service discovery even in cases of IP overlap.
 {{< /hextra/hero-subtitle >}}
 </div>
 
